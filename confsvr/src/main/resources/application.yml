@@ -1,0 +1,18 @@
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        encrypt.enabled: false
+        git:
+          uri: https://github.com/Pjosif/microLocal/
+          searchPaths: licensingservice,organizationservice,zuulservice,authenticationservice
+          username: pjosif
+          password: Josif159
+
+logging:
+  level:
+    com.netflix: WARN
+    org.springframework.web: WARN
+    com.thoughtmechanix: DEBUG

@@ -1,0 +1,15 @@
+org\micros\organization\events\source\SimpleSourceBean.class
+org\micros\organization\controllers\OrganizationServiceController.class
+org\micros\organization\services\OrganizationService.class
+org\micros\organization\hystrix\ThreadLocalConfiguration.class
+org\micros\organization\repository\OrganizationRepository.class
+org\micros\organization\utils\UserContextHolder.class
+org\micros\organization\security\ResourceServerConfiguration.class
+org\micros\organization\model\Organization.class
+org\micros\organization\utils\UserContextInterceptor.class
+org\micros\organization\hystrix\ThreadLocalAwareStrategy.class
+org\micros\organization\Application.class
+org\micros\organization\hystrix\DelegatingUserContextCallable.class
+org\micros\organization\utils\UserContextFilter.class
+org\micros\organization\utils\UserContext.class
+org\micros\organization\events\models\OrganizationChangeModel.class

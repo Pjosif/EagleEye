@@ -1,0 +1,10 @@
+org\micros\zuulsvr\model\AbTestingRoute.class
+org\micros\zuulsvr\utils\UserContextInterceptor.class
+org\micros\zuulsvr\filters\ResponseFilter.class
+org\micros\zuulsvr\filters\SpecialRoutesFilter.class
+org\micros\zuulsvr\utils\UserContextHolder.class
+org\micros\zuulsvr\filters\TrackingFilter.class
+org\micros\zuulsvr\ZuulServerApplication.class
+org\micros\zuulsvr\utils\UserContextFilter.class
+org\micros\zuulsvr\utils\UserContext.class
+org\micros\zuulsvr\filters\FilterUtils.class
